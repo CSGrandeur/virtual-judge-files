@@ -88,7 +88,7 @@
         ]
     },
 
-    SGU :
+    SGU :	//use CodeForces accounts
     {
         contextNumber : 5,
         accounts :
@@ -230,7 +230,7 @@
         ]
     },
 	
-    CFGym :
+    CFGym :	//use CodeForces accounts
     {
         contextNumber : 5,
         accounts :
